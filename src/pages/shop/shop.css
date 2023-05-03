@@ -31,6 +31,7 @@
 
 .product img {
   width: 400px;
+  mix-blend-mode: darken;
 }
 
 .product .description {
